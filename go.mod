@@ -1,6 +1,6 @@
-module github.com/pooley182/go-replace
+module github.com/kaufmanndigital/go-replace
 
-go 1.24
+go 1.26
 
 require (
 	github.com/Masterminds/sprig v2.22.0+incompatible
